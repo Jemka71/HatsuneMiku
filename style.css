@@ -2,3 +2,13 @@ body{
     margin: 0;
     background-color: rgb(55, 181, 185);
 }
+iframe{
+    border:0;
+}
+nav{
+    text-align: center;
+}
+nav button {
+    border: 0;
+    background-image: linear-gradient(to bottom white grey);
+}
